@@ -1,5 +1,5 @@
 {
-  "name": "a14-stable-diffusion-api",
+  "name": "a14-stable-diffusion-ts",
   "version": "0.1.0",
   "description": "API translation for Automatic1111 Stable Diffusion WebUI",
   "main": "dist/index.js",
@@ -7,12 +7,12 @@
   "files": [
     "dist"
   ],
-  "author": "Jascha Huisman <jascha.huisman@gmail.com>",
+  "author": "Ricardo Garim <rswarovsky@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/jaschahuisman/sd-api.git",
+  "homepage": "https://github.com/ricardosw/a14-stable-diffusion-ts.git",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jaschahuisman/sd-api.git"
+    "url": "https://github.com/ricardosw/a14-stable-diffusion-ts.git"
   },
   "keywords": [
     "javascript",

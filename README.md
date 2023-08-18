@@ -1,3 +1,5 @@
+> Please refer to [jaschahuisman/sd-api](https://github.com/jaschahuisman/sd-api) to get the latest version of this project. This is just a fork for a really specific usecase.
+
 # Stable Diffusion Api
 
 ![npm](https://img.shields.io/npm/v/stable-diffusion-api)
